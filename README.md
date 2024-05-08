@@ -19,5 +19,5 @@ categories = {'agricultural','airplane','baseballdiamond','beach', 'buildings','
     'storagetanks' , 'tenniscourt'
     };
 ```
-> Any dataset like that (**RS19** & **UCMerced**) is already exists local repo (**My Device Repo**) If you are not with you , you can download it from here [Download Here](https://www.mediafire.com/file/ujtafsfjt83rkna/02-Datasets.rar/file 
+> Any dataset like that (**RS19** & **UCMerced**) is already exists local repo (**My Device Repo**) If you are not with you , you can download it from here [Download Here](https://www.mediafire.com/file/ujtafsfjt83rkna/02-Datasets.rar/file)
 
