@@ -19,7 +19,5 @@ categories = {'agricultural','airplane','baseballdiamond','beach', 'buildings','
     'storagetanks' , 'tenniscourt'
     };
 ```
-> Any dataset like that (**RS19** & **UCMerced**) is already exists local repo (**My Device Repo**) If you are not with you , you can download it from here ()[https://www.mediafire.com/file/ujtafsfjt83rkna/02-Datasets.rar/file 
-![image](https://github.com/Moazosama2004/DeepLearning_matlab_assignments/assets/102158567/5ab830df-b174-4f83-8f56-fc94f7530c3c)
-]
-
+> Any dataset like that (**RS19** & **UCMerced**) is already exists local repo (**My Device Repo**) If you are not with you , you can download it from here https://www.mediafire.com/file/ujtafsfjt83rkna/02-Datasets.rar/file 
+![Uploading image.png…]()
