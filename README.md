@@ -1,10 +1,6 @@
 # DeepLearning_matlab_assignments
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley`
+- [x] alexnet `Task 1`
+- [x] inceptionv3 **Task 2**
+- [x] resnet101 Task 3
+
+
