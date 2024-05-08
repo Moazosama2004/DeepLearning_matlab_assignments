@@ -1,2 +1,10 @@
 # DeepLearning_matlab_assignments
-DeepLearning matlab assignments
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley`
